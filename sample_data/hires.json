@@ -1,0 +1,9 @@
+{
+  "holidays": ["2026-11-26", "2026-11-27", "2026-12-25", "2027-01-01"],
+  "hires": [
+    { "name": "Priya N.", "startDate": "2026-11-30", "department": "Engineering", "jobFamily": "engineering",
+      "workerType": "employee", "remote": true, "managerId": "mgr.eng", "country": "US" },
+    { "name": "Tom K.", "startDate": "2026-10-05", "department": "Finance", "jobFamily": "accounting",
+      "workerType": "contractor", "remote": false, "managerId": "mgr.fin", "country": "US" }
+  ]
+}
